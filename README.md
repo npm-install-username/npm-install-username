@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning web development and am an aspiring software engineer
-
-
 Technolgies:
 
 ![image](https://user-images.githubusercontent.com/101745829/164791515-756befde-cfa0-4bc5-a5ed-8aa6e7530116.png)
